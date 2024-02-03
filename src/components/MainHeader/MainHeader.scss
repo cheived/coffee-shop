@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    color: white;
+    font-size: 12px;
+    justify-content: space-between;
+    width: 355px;
+    height: 40px;
+}
+
+.logo {
+    width: auto;
+}
+
+
+a {
+    display: flex;
+    align-items: flex-end;
+    padding: 2px;
+    text-decoration: none;
+}
