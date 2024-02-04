@@ -4,7 +4,7 @@ function MainFooter() {
     return (
         <div className='footer'>
             <Header black={true} />
-            <img src='/img/beansLogoBlack.svg' alt='beansLogoBlack'></img>
+            <img src='/coffee-shop/img/beansLogoBlack.svg' alt='beansLogoBlack'></img>
         </div>
     )
 }

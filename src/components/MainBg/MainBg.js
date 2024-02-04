@@ -8,7 +8,7 @@ function MainBg() {
             </div>
             <div className='text'>
                 <div className='mainTitle'>Everything You Love About Coffee
-                    <img className='beansLogo' src='/img/beansLogo.svg' alt='beansLogo'></img>
+                    <img className='beansLogo' src='/coffee-shop/img/beansLogo.svg' alt='beansLogo' />
                 </div>
 
                 <div className='secondTitle'>
